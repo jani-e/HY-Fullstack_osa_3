@@ -1,0 +1,7 @@
+POST https://puhelinluettelo-backend-je.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Elfo",
+    "number": "044-1234567"
+}

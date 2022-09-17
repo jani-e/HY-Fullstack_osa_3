@@ -1,0 +1,1 @@
+GET https://puhelinluettelo-backend-je.fly.dev/api/persons

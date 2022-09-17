@@ -1,0 +1,18 @@
+.alert {
+    font-weight: bold;
+    background: rgb(225, 225, 225);
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    max-width: 1000px;
+}
+
+.success {
+    color: rgb(80, 180, 10);
+}
+
+.error {
+    color: red;
+}
